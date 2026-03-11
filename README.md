@@ -26,7 +26,7 @@
 
 ## 배포 서버 인프라 (AWS)
 
-<img width="2048" height="1647" alt="image" src="https://github.com/user-attachments/assets/0ca87381-9ac0-4aa5-ada2-779d0834c279" />
+<img width="7077" height="5691" alt="image" src="https://github.com/user-attachments/assets/a16e4627-554a-439a-aaff-8b6c68f7a976" />
 
 | 분류             | 기술                          |
 |----------------|-----------------------------|
